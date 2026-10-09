@@ -1,0 +1,27 @@
+PCGE Perú: adaptación nativa
+
+Implementación nueva basada en los datos, semántica de consultas y procedencia
+de pcge-peru, de mat-l-dev:
+https://github.com/mat-l-dev/pcge-peru
+Commit fijado: e9e69ed9075c09e8d1e5475760e5b691aa73b251
+Versión declarada del proyecto de origen: 0.2.1
+
+El software de origen se distribuye bajo Apache License 2.0. Se conserva su
+LICENSE completo sin modificaciones. Esta adaptación contiene código nuevo
+y tablas generadas en otro lenguaje; no es el paquete Python original.
+
+Los textos oficiales del Plan Contable General Empresarial proceden de las
+disposiciones del Estado peruano, emitidas por el Consejo Normativo de
+Contabilidad y el Ministerio de Economía y Finanzas. La licencia Apache del
+software no se atribuye a estos textos oficiales. source.json y anomalies.json
+conservan la procedencia documental del origen. Los hashes de PDF son
+metadatos heredados, no una nueva verificación de los documentos oficiales.
+Los hashes de entries.json verifican los bytes distribuidos de los datos.
+
+Las tablas de normalización se derivan de Unicode Character Database 16.0.0
+(UnicodeData.txt y CaseFolding.txt), de Unicode, Inc. Su licencia separada es
+Unicode License v3 (SPDX: Unicode-3.0).
+Copyright © 2001-2024 Unicode, Inc.
+Se incluye el texto completo en licenses/LICENSE-UNICODE. Las fuentes y sus
+hashes están en data/unicode-normalization.json. La versión corresponde al
+runtime Python 3.14 declarado por el proyecto de origen.
