@@ -1,0 +1,20 @@
+{
+  "upstream_repository": "https://github.com/mat-l-dev/pcge-peru",
+  "upstream_commit": "e9e69ed9075c09e8d1e5475760e5b691aa73b251",
+  "upstream_version": "0.2.1",
+  "unicode_version": "16.0.0",
+  "sha256": {
+    "data/2019/entries.json": "fc70e43b94d0718373ab3b9f81202731e5295ededf0df75231a2ffb3c2beec04",
+    "data/2019/metadata.json": "fbc9a07a5461f33a006d276613d88a8fdead72e93e92c3f4273640f5a20b2503",
+    "data/2019/source.json": "b58f2e96b338140f69666cd6e00df8d95d9a5d7049f781833fad7567d5e5c157",
+    "data/2019/anomalies.json": "f8c5f467a55abc588503a80cf2069114a85248b704c8da1bbd9e141a5cd07eea",
+    "data/2026/entries.json": "70d6cb7dfc501a1306a0e934df48409f70e83ffae033676b49f297d9cbeaf43a",
+    "data/2026/metadata.json": "dc1c939a5c524dc03e4d96e766cbb06299d48374a526c05576ef1f7d82489ece",
+    "data/2026/source.json": "f1887c77a7af090499537a185a378c99d87fa38930cb5e4a111053ce50949b1a",
+    "data/2026/anomalies.json": "576d33332d9cf117d2678dae079e7f6c8a416c210c29bda9b8aa3a73cbe720ef",
+    "data/unicode-normalization.json": "8bb1a8bb61dc74470eefd96fc71b5f85d7fb4abbc35401d9ed8e5aad9e7e13ca",
+    "tests/golden-fixtures.json": "ae77b4f97a6cd46e60a1688f29ef636b34c9597920e6c5e8c5c68660efbcb965",
+    "LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "licenses/LICENSE-UNICODE": "fe5c62b543e287981db198f2acfa0ca732d12591a1024536dc8fd85dacd77104"
+  }
+}
